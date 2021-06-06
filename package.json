@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Victor Onyebuchi",
 	"description": "freecodecamp npm project on replit",
-	"keywords": [ "fcc", "npm", "process" ],
+	"keywords": [ "freecodecamp", "npm", "process" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

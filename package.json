@@ -4,6 +4,7 @@
 	"description": "freecodecamp npm project on replit",
 	"keywords": [ "freecodecamp", "npm", "process" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
